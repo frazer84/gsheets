@@ -11,9 +11,9 @@ environment:
   sdk: '>=2.5.0 <3.0.0'
 
 dependencies:
-  googleapis: ^0.56.1
-  googleapis_auth: ^0.2.12
-  http: ^0.12.2
+  googleapis: ^1.0.0
+  googleapis_auth: ^1.0.0
+  http: ^0.13.0
   meta: ^1.2.3
 
 dev_dependencies:
